@@ -1,10 +1,2 @@
-# MERN CRUD Example
+### [LIVE DEMO](https://mern-stack-crud-app.now.sh/)
 
-## How to do it ?
-
-```
-1: npm i
-
-2: cd client => npm i
-3: cd ../ => npm run dev
-```
